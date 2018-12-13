@@ -1,0 +1,17 @@
+{
+  "name": "livescript-parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel build index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "livescript": "^1.6.0",
+    "parcel-bundler": "^1.10.3"
+  }
+}
